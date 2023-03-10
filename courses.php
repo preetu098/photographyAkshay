@@ -1620,7 +1620,10 @@
 <p>- 1 Macro/Wildlife Photography Session</p>
 <p>- 1-2 Night Photography Sessions</p>
 <p>- 1 Astrophotography Session (seasonal and optional)</p>
-<img src="http://girishshukla.com/wp-content/uploads/2018/08/photographer.png" alt="">
+<br><br><br>
+
+<img src="https://www.pngmart.com/files/5/Photographer-PNG-Picture.png" alt="">
+<button class="btn btn-warning">ENQUIRY NOW!</button>
                             </div>
                           </div>
                         </div>

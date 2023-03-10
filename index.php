@@ -346,6 +346,21 @@
                                     </div>
                                 </div>
                             </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            
                             <div class="vc_row-full-width vc_clearfix"></div>
                             <div class="vc_row wpb_row vc_row-fluid">
                                 <div class="wpb_column vc_column_container vc_col-sm-12">
@@ -826,6 +841,12 @@
                                 </div>
                             </div>
                             <div class="vc_row-full-width vc_clearfix"></div>
+
+
+
+
+
+                            
                             <div data-vc-full-width="true" data-vc-full-width-init="false"
                                 class="vc_row wpb_row vc_row-fluid vc_background-contain vc_bg-none-res wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp vc_custom_1502950673842">
                                 <div
@@ -969,106 +990,8 @@
                                 <div class="wpb_column vc_column_container vc_col-sm-12">
                                     <div class="vc_column-inner ">
                                         <div class="wpb_wrapper">
-                                            <div class="ult-animation  ult-animate-viewport  ult-no-mobile "
-                                                data-animate="bounceIn" data-animation-delay="0.8"
-                                                data-animation-duration="1" data-animation-iteration="1"
-                                                style="opacity:0;" data-opacity_start_effect="">
-                                                <div
-                                                    class='dt-sc-title with-two-border with-sub-title aligncenter dark-bg'>
-                                                    <h2>SoulFul Photography Academy</h2>
-                                                    <h3>Photograhy Team</h3>
-                                                </div>
-                                            </div>
-                                            <div class="ult-spacer spacer-63cf7e56dbbe3" data-id="63cf7e56dbbe3"
-                                                data-height="50" data-height-mobile="50" data-height-tab="50"
-                                                data-height-tab-portrait="" data-height-mobile-landscape=""
-                                                style="clear:both;display:block;"></div>
-                                            <div class="vc_row wpb_row vc_inner vc_row-fluid">
-                                                <div class="wpb_column vc_column_container vc_col-sm-4">
-                                                    <div class="vc_column-inner ">
-                                                        <div class="wpb_wrapper">
-                                                            <div class="ult-animation  ult-animate-viewport  ult-no-mobile "
-                                                                data-animate="flipInY" data-animation-delay="1.1"
-                                                                data-animation-duration="1" data-animation-iteration="1"
-                                                                style="opacity:0;" data-opacity_start_effect="">
-                                                                <div
-                                                                    class='dt-sc-team hide-social-show-on-hover rounded '>
-                                                                    <div class='dt-sc-team-thumb'><img width="180"
-                                                                            height="180"
-                                                                            src="https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/team1.jpg"
-                                                                            class="attachment-full" alt=""
-                                                                            decoding="async" loading="lazy"
-                                                                            srcset="https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/team1.jpg 180w, https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/team1-100x100.jpg 100w, https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/team1-150x150.jpg 150w"
-                                                                            sizes="(max-width: 180px) 100vw, 180px" />
-                                                                    </div>
-                                                                    <div class='dt-sc-team-details'>
-                                                                        <h4>Bobbie Jackson</h4>
-                                                                        <h5>Salsa Music</h5>
-                                                                        <p>Mirum est notare quam littera
-                                                                            gothica, quam putamus.</p>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="wpb_column vc_column_container vc_col-sm-4">
-                                                    <div class="vc_column-inner ">
-                                                        <div class="wpb_wrapper">
-                                                            <div class="ult-animation  ult-animate-viewport  ult-no-mobile "
-                                                                data-animate="flipInY" data-animation-delay="1.4"
-                                                                data-animation-duration="1" data-animation-iteration="1"
-                                                                style="opacity:0;" data-opacity_start_effect="">
-                                                                <div
-                                                                    class='dt-sc-team hide-social-show-on-hover rounded '>
-                                                                    <div class='dt-sc-team-thumb'><img width="180"
-                                                                            height="180"
-                                                                            src="https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/team2.jpg"
-                                                                            class="attachment-full" alt=""
-                                                                            decoding="async" loading="lazy"
-                                                                            srcset="https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/team2.jpg 180w, https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/team2-100x100.jpg 100w, https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/team2-150x150.jpg 150w"
-                                                                            sizes="(max-width: 180px) 100vw, 180px" />
-                                                                    </div>
-                                                                    <div class='dt-sc-team-details'>
-                                                                        <h4>Sylvester Gonzales</h4>
-                                                                        <h5>Hip Hop Specialist</h5>
-                                                                        <p>Mirum est notare quam littera
-                                                                            gothica, quam putamus.</p>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="wpb_column vc_column_container vc_col-sm-4">
-                                                    <div class="vc_column-inner ">
-                                                        <div class="wpb_wrapper">
-                                                            <div class="ult-animation  ult-animate-viewport  ult-no-mobile "
-                                                                data-animate="flipInY" data-animation-delay="1.7"
-                                                                data-animation-duration="1" data-animation-iteration="1"
-                                                                style="opacity:0;" data-opacity_start_effect="">
-                                                                <div
-                                                                    class='dt-sc-team hide-social-show-on-hover rounded '>
-                                                                    <div class='dt-sc-team-thumb'><img width="180"
-                                                                            height="180"
-                                                                            src="https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/team3.jpg"
-                                                                            class="attachment-full" alt=""
-                                                                            decoding="async" loading="lazy"
-                                                                            srcset="https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/team3.jpg 180w, https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/team3-100x100.jpg 100w, https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/team3-150x150.jpg 150w"
-                                                                            sizes="(max-width: 180px) 100vw, 180px" />
-                                                                    </div>
-                                                                    <div class='dt-sc-team-details'>
-                                                                        <h4>Inez Hernandez</h4>
-                                                                        <h5>Salsa Dance</h5>
-                                                                        <p>Mirum est notare quam littera
-                                                                            gothica, quam putamus.</p>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
+                                          
+                                          
                                         </div>
                                     </div>
                                 </div>
@@ -1086,26 +1009,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="vc_row wpb_row vc_row-fluid">
-                                <div class="wpb_column vc_column_container vc_col-sm-12">
-                                    <div class="vc_column-inner ">
-                                        <div class="wpb_wrapper">
-                                            <div class="ult-animation  ult-animate-viewport  ult-no-mobile "
-                                                data-animate="bounceIn" data-animation-delay="0.5"
-                                                data-animation-duration="1" data-animation-iteration="1"
-                                                style="opacity:0;" data-opacity_start_effect=""></div>
-                                            <div class='dt-sc-title with-two-border with-sub-title aligncenter'>
-                                                <h2>We make you want to dance...right now!</h2>
-                                                <h3>Want to know more?</h3>
-                                            </div>
-                                            <div class="ult-spacer spacer-63cf7e56dd65e" data-id="63cf7e56dd65e"
-                                                data-height="50" data-height-mobile="50" data-height-tab="50"
-                                                data-height-tab-portrait="" data-height-mobile-landscape=""
-                                                style="clear:both;display:block;"></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                            
                             <div class="vc_row wpb_row vc_row-fluid">
                                 <div class="wpb_column vc_column_container vc_col-sm-2">
                                     <div class="vc_column-inner ">
@@ -1297,187 +1201,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div data-vc-full-width="true" data-vc-full-width-init="false"
-                                class="vc_row wpb_row vc_row-fluid dt-sc-secondary-skin wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp vc_custom_1502951357782">
-                                <div class="wpb_column vc_column_container vc_col-sm-12">
-                                    <div class="vc_column-inner ">
-                                        <div class="wpb_wrapper">
-                                            <div class="ult-animation  ult-animate-viewport  ult-no-mobile "
-                                                data-animate="bounceIn" data-animation-delay="0.5"
-                                                data-animation-duration="1" data-animation-iteration="1"
-                                                style="opacity:0;" data-opacity_start_effect="">
-                                                <div
-                                                    class='dt-sc-title with-two-border with-sub-title aligncenter dt-sc-dark-bg'>
-                                                    <h2>We make you dance. Want to?</h2>
-                                                    <h3>We Write</h3>
-                                                </div>
-                                            </div>
-                                            <div class="ult-spacer spacer-63cf7e56e6589" data-id="63cf7e56e6589"
-                                                data-height="50" data-height-mobile="50" data-height-tab="50"
-                                                data-height-tab-portrait="" data-height-mobile-landscape=""
-                                                style="clear:both;display:block;"></div>
-                                            <div class="vc_row wpb_row vc_inner vc_row-fluid vc_row-no-padding">
-                                                <div class="wpb_column vc_column_container vc_col-sm-3">
-                                                    <div class="vc_column-inner ">
-                                                        <div class="wpb_wrapper">
-                                                            <div class="ult-animation  ult-animate-viewport  ult-no-mobile "
-                                                                data-animate="flipInY" data-animation-delay="0.8"
-                                                                data-animation-duration="1" data-animation-iteration="1"
-                                                                style="opacity:0;" data-opacity_start_effect="">
-                                                                <div class='dt-sc-pr-tb-col type1 '>
-                                                                    <div class="dt-sc-tb-header">
-                                                                        <div class="dt-sc-tb-title">
-                                                                            <h5>2 Class a Week</h5>
-                                                                            <p>Billed annually or $ 10 monthly</p>
-                                                                        </div>
-                                                                        <div class="dt-sc-price">
-                                                                            <h6> <sup>$</sup>100<span> / Year </span>
-                                                                            </h6>
-                                                                        </div>
-                                                                    </div>
-                                                                    <ul class="dt-sc-tb-content">
-                                                                        <li>1 Person</li>
-                                                                        <li>1 Trainer</li>
-                                                                        <li>1 Course</li>
-                                                                    </ul>
-                                                                    <div class="ult-spacer spacer-63cf7e56e6997"
-                                                                        data-id="63cf7e56e6997" data-height="100"
-                                                                        data-height-mobile="40" data-height-tab="100"
-                                                                        data-height-tab-portrait="50"
-                                                                        data-height-mobile-landscape="40"
-                                                                        style="clear:both;display:block;"></div>
-                                                                    <p><a href='#' target='_self' title=''
-                                                                            class='dt-sc-button   medium icon-right with-icon  bordered  '>
-                                                                            Enroll Now <span
-                                                                                class='fa fa-long-arrow-right'>
-                                                                            </span></a>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="wpb_column vc_column_container vc_col-sm-3">
-                                                    <div class="vc_column-inner ">
-                                                        <div class="wpb_wrapper">
-                                                            <div class="ult-animation  ult-animate-viewport  ult-no-mobile "
-                                                                data-animate="flipInY" data-animation-delay="1.1"
-                                                                data-animation-duration="1" data-animation-iteration="1"
-                                                                style="opacity:0;" data-opacity_start_effect="">
-                                                                <div class='dt-sc-pr-tb-col type1 '>
-                                                                    <div class="dt-sc-tb-header">
-                                                                        <div class="dt-sc-tb-title">
-                                                                            <h5>3 Class a Week</h5>
-                                                                            <p>Billed annually or $15 monthly</p>
-                                                                        </div>
-                                                                        <div class="dt-sc-price">
-                                                                            <h6> <sup>$</sup>150<span> / Year </span>
-                                                                            </h6>
-                                                                        </div>
-                                                                    </div>
-                                                                    <ul class="dt-sc-tb-content">
-                                                                        <li>1 Person</li>
-                                                                        <li>1 Trainer</li>
-                                                                        <li>1 Course</li>
-                                                                        <li>Custom Timing</li>
-                                                                    </ul>
-                                                                    <div class="ult-spacer spacer-63cf7e56e6bbb"
-                                                                        data-id="63cf7e56e6bbb" data-height="57"
-                                                                        data-height-mobile="40" data-height-tab="57"
-                                                                        data-height-tab-portrait="50"
-                                                                        data-height-mobile-landscape="40"
-                                                                        style="clear:both;display:block;"></div>
-                                                                    <a href='#' target='_self' title=''
-                                                                        class='dt-sc-button   medium icon-right with-icon  bordered  '>
-                                                                        Enroll Now <span class='fa fa-long-arrow-right'>
-                                                                        </span></a>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="wpb_column vc_column_container vc_col-sm-3">
-                                                    <div class="vc_column-inner ">
-                                                        <div class="wpb_wrapper">
-                                                            <div class="ult-animation  ult-animate-viewport  ult-no-mobile "
-                                                                data-animate="flipInY" data-animation-delay="1.4"
-                                                                data-animation-duration="1" data-animation-iteration="1"
-                                                                style="opacity:0;" data-opacity_start_effect="">
-                                                                <div class='dt-sc-pr-tb-col type1 '>
-                                                                    <div class="dt-sc-tb-header">
-                                                                        <div class="dt-sc-tb-title">
-                                                                            <h5>4 Class a Week</h5>
-                                                                            <p>Billed annually or $20 monthly</p>
-                                                                        </div>
-                                                                        <div class="dt-sc-price">
-                                                                            <h6> <sup>$</sup>200<span> / Year </span>
-                                                                            </h6>
-                                                                        </div>
-                                                                    </div>
-                                                                    <ul class="dt-sc-tb-content">
-                                                                        <li>1 Person</li>
-                                                                        <li>1 Trainer</li>
-                                                                        <li>1 Course</li>
-                                                                        <li>Custom Timing</li>
-                                                                    </ul>
-                                                                    <div class="ult-spacer spacer-63cf7e56e6db8"
-                                                                        data-id="63cf7e56e6db8" data-height="57"
-                                                                        data-height-mobile="40" data-height-tab="57"
-                                                                        data-height-tab-portrait="50"
-                                                                        data-height-mobile-landscape="40"
-                                                                        style="clear:both;display:block;"></div>
-                                                                    <a href='#' target='_self' title=''
-                                                                        class='dt-sc-button   medium icon-right with-icon  bordered  '>
-                                                                        Enroll Now <span class='fa fa-long-arrow-right'>
-                                                                        </span></a>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="wpb_column vc_column_container vc_col-sm-3">
-                                                    <div class="vc_column-inner ">
-                                                        <div class="wpb_wrapper">
-                                                            <div class="ult-animation  ult-animate-viewport  ult-no-mobile "
-                                                                data-animate="flipInY" data-animation-delay="1.7"
-                                                                data-animation-duration="1" data-animation-iteration="1"
-                                                                style="opacity:0;" data-opacity_start_effect="">
-                                                                <div class='dt-sc-pr-tb-col type1 '>
-                                                                    <div class="dt-sc-tb-header">
-                                                                        <div class="dt-sc-tb-title">
-                                                                            <h5>5 Class a Week</h5>
-                                                                            <p>Billed annually or $ 30 monthly</p>
-                                                                        </div>
-                                                                        <div class="dt-sc-price">
-                                                                            <h6> <sup>$</sup>250<span> / Year </span>
-                                                                            </h6>
-                                                                        </div>
-                                                                    </div>
-                                                                    <ul class="dt-sc-tb-content">
-                                                                        <li>1 Person</li>
-                                                                        <li>1 Trainer</li>
-                                                                        <li>1 Course</li>
-                                                                        <li>Custom Timing</li>
-                                                                        <li>Special Auditions</li>
-                                                                    </ul>
-                                                                    <div class="ult-spacer spacer-63cf7e56e6f9b"
-                                                                        data-id="63cf7e56e6f9b" data-height="14"
-                                                                        data-height-mobile="40" data-height-tab="14"
-                                                                        data-height-tab-portrait="50"
-                                                                        data-height-mobile-landscape="40"
-                                                                        style="clear:both;display:block;"></div>
-                                                                    <a href='#' target='_self' title=''
-                                                                        class='dt-sc-button   medium icon-right with-icon  bordered  '>
-                                                                        Enroll Now <span class='fa fa-long-arrow-right'>
-                                                                        </span></a>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+                            
                             </div>
                             <div class="vc_row-full-width vc_clearfix"></div><!-- Row Backgrounds -->
                             <div class="upb_bg_img"
@@ -1495,8 +1219,34 @@
                                 data-overlay-pattern-opacity="" data-overlay-pattern-size=""></div>
                         </div><!-- #post-7527 -->
                     </section><!-- **Primary - End** -->
+                    <section>
+                        <div class="container">
+                            <div class="row">
+                                <div class="wpb_column vc_column_container vc_col-sm-6">
+                                    <h3>WHY JOIN A PHOTOGRAPHY ACADEMY IN TODAY’S DAY AND AGE WHEN SO MUCH OF FREE INFORMATION IS AVAILABLE ONLINE?</h3>
+                                    <div class="entry-body">
+                                    <p>SURE, THERE ARE A LOT OF THINGS YOU CAN LEARN FOR FREE ONLINE. BUT, there are so many limitations to what you learn and what you can achieve with that information. If you’re making certain mistakes, a dedicated teacher can help you fix your mistakes right then and there and help you improve in the areas you’re struggling with. An academy gives you access to a lot of camera equipment without having to spend extra money to buy everything.</p>
+                                    <p> You also become a lifelong part of the local photography community and make new friends who share same passion and interest as you and that is incredibly valuable. </p>
+                                    <h5>So, don’t hesitate. Join us today and take your photography to the next level!</h5>
+                                    
+                                    <br></br>
+                                    <!-- <button class="btn btn-warning">ADMISSIONS OPEN</button> -->
+                                    <h4>ADMISSIONS OPEN!</h4>
+                                    <button class="btn btn-warning">ENQUIRE NOW</button>
+                                    <br>
+                                    
+                                            </div>
+                                            
+                                </div>
+                                <div class="wpb_column vc_column_container vc_col-sm-6">
+                                    <h3>We believe that classroom learning can NEVER be replaced by online content or courses. </h3>
+                                    <img src="https://images.squarespace-cdn.com/content/v1/626810a4e1074323cfe7217f/488d0326-38be-4759-8050-7ab2f7f8134a/Sandra+Coan+Education+-+photography+Classes+-+Flash+Photography++-+About+Sandra.png" class="img-fluid" alt="">
+                                </div>
+                            </div>
+                        </div>
+                    </section>
                 </div><!-- **Container - End** -->
 
             </div><!-- **Main - End** --> <!-- **Footer** -->
-           
+         
 <?php include('footer.php');?>

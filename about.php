@@ -56,6 +56,7 @@
 												passionate people from different backgrounds met through the will of
 												destiny and instantly became partners and brothers through their common
 												ideas, goals, and ambitions. </p>
+												<button class="btn btn-warning">ENQUIRY NOW!</button>
 
 										</div>
 									</div>
@@ -124,264 +125,13 @@
 										</ul>
 									</div>
 								</div>
-								<div class="ult-spacer spacer-63d123e9a6a22" data-id="63d123e9a6a22" data-height="10"
-									data-height-mobile="10" data-height-tab="10" data-height-tab-portrait=""
-									data-height-mobile-landscape="" style="clear:both;display:block;"></div>
-								<div class="vc_row wpb_row vc_inner vc_row-fluid">
-									<div class="wpb_column vc_column_container vc_col-sm-4">
-										<div class="vc_column-inner ">
-											<div class="wpb_wrapper">
-												<div class="ult-animation  ult-animate-viewport  ult-no-mobile "
-													data-animate="flipInY" data-animation-delay="1.1"
-													data-animation-duration="1" data-animation-iteration="1"
-													style="opacity:0;" data-opacity_start_effect="">
-													<div class="stats-block stats-top  counter-box skin-color ">
-														<div class="aio-icon-top">
-															<div class="ult-just-icon-wrapper  ">
-																<div class="align-icon" style="text-align:center;">
-																</div>
-															</div>
-														</div>
-														<div class="stats-desc" id="counter-responsv-wrap-9571">
-															<div id="counter_90139424463d123e9a6ffa"
-																data-id="counter_90139424463d123e9a6ffa"
-																data-ultimate-target='#counter-responsv-wrap-9571 .stats-number'
-																data-responsive-json-new='{"font-size":"desktop:34px;","line-height":""}'
-																class="stats-number ult-responsive" style="  "
-																data-speed="3" data-counter-value="1279"
-																data-separator="," data-decimal=".">0</div>
-															<div id="counter_90139424463d123e9a6ffa"
-																data-ultimate-target='#counter-responsv-wrap-9571 .stats-text'
-																data-responsive-json-new='{"font-size":"desktop:14px;","line-height":""}'
-																class="stats-text ult-responsive"
-																style="font-size:px;  ">Students</div>
-														</div>
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
-									<div class="wpb_column vc_column_container vc_col-sm-4">
-										<div class="vc_column-inner ">
-											<div class="wpb_wrapper">
-												<div class="ult-animation  ult-animate-viewport  ult-no-mobile "
-													data-animate="flipInY" data-animation-delay="1.4"
-													data-animation-duration="1" data-animation-iteration="1"
-													style="opacity:0;" data-opacity_start_effect="">
-													<div class="stats-block stats-top  counter-box skin-color ">
-														<div class="aio-icon-top">
-															<div class="ult-just-icon-wrapper  ">
-																<div class="align-icon" style="text-align:center;">
-																</div>
-															</div>
-														</div>
-														<div class="stats-desc" id="counter-responsv-wrap-4010">
-															<div id="counter_184552921563d123e9a71f1"
-																data-id="counter_184552921563d123e9a71f1"
-																data-ultimate-target='#counter-responsv-wrap-4010 .stats-number'
-																data-responsive-json-new='{"font-size":"desktop:34px;","line-height":""}'
-																class="stats-number ult-responsive" style="  "
-																data-speed="3" data-counter-value="856"
-																data-separator="," data-decimal=".">0</div>
-															<div id="counter_184552921563d123e9a71f1"
-																data-ultimate-target='#counter-responsv-wrap-4010 .stats-text'
-																data-responsive-json-new='{"font-size":"desktop:14px;","line-height":""}'
-																class="stats-text ult-responsive"
-																style="font-size:px;  ">Classes</div>
-														</div>
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
-									<div class="wpb_column vc_column_container vc_col-sm-4">
-										<div class="vc_column-inner ">
-											<div class="wpb_wrapper">
-												<div class="ult-animation  ult-animate-viewport  ult-no-mobile "
-													data-animate="flipInY" data-animation-delay="1.7"
-													data-animation-duration="1" data-animation-iteration="1"
-													style="opacity:0;" data-opacity_start_effect="">
-													<div class="stats-block stats-top  counter-box skin-color ">
-														<div class="aio-icon-top">
-															<div class="ult-just-icon-wrapper  ">
-																<div class="align-icon" style="text-align:center;">
-																</div>
-															</div>
-														</div>
-														<div class="stats-desc" id="counter-responsv-wrap-4144">
-															<div id="counter_93217165663d123e9a73d6"
-																data-id="counter_93217165663d123e9a73d6"
-																data-ultimate-target='#counter-responsv-wrap-4144 .stats-number'
-																data-responsive-json-new='{"font-size":"desktop:34px;","line-height":""}'
-																class="stats-number ult-responsive" style="  "
-																data-speed="3" data-counter-value="2900"
-																data-separator="," data-decimal=".">0</div>
-															<div id="counter_93217165663d123e9a73d6"
-																data-ultimate-target='#counter-responsv-wrap-4144 .stats-text'
-																data-responsive-json-new='{"font-size":"desktop:14px;","line-height":""}'
-																class="stats-text ult-responsive"
-																style="font-size:px;  ">Practice Hours</div>
-														</div>
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
+								
 							</div>
 						</div>
 					</div>
-					<div class="wpb_column vc_column_container vc_col-sm-12">
-						<div class="vc_column-inner ">
-							<div class="wpb_wrapper">
-								<div class="ult-spacer spacer-63d123e9a755e" data-id="63d123e9a755e" data-height="90"
-									data-height-mobile="90" data-height-tab="90" data-height-tab-portrait=""
-									data-height-mobile-landscape="" style="clear:both;display:block;"></div>
-							</div>
-						</div>
-					</div>
+					
 				</div>
-				<div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true"
-					class="vc_row wpb_row vc_row-fluid section33 wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp vc_custom_1502966250497 vc_row-has-fill vc_row-no-padding vc_row-o-equal-height vc_row-o-content-middle vc_row-flex">
-					<div class="wpb_column vc_column_container vc_col-sm-6">
-						<div class="vc_column-inner ">
-							<div class="wpb_wrapper">
-								<div class="ult-animation  ult-animate-viewport  ult-no-mobile "
-									data-animate="zoomInDown" data-animation-delay="0.8" data-animation-duration="1"
-									data-animation-iteration="1" style="opacity:0;" data-opacity_start_effect="">
-									<div
-										class="wpb_single_image wpb_content_element vc_align_left  vc_custom_1502887799668">
-
-										<figure class="wpb_wrapper vc_figure">
-											<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="1170"
-													height="827"
-													src="https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/certificatte.jpg"
-													class="vc_single_image-img attachment-full" alt="" decoding="async"
-													loading="lazy"
-													srcset="https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/certificatte.jpg 1170w, https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/certificatte-600x424.jpg 600w, https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/certificatte-300x212.jpg 300w, https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/certificatte-768x543.jpg 768w, https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/certificatte-1024x724.jpg 1024w"
-													sizes="(max-width: 1170px) 100vw, 1170px" /></div>
-										</figure>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="wpb_column vc_column_container vc_col-sm-6">
-						<div class="vc_column-inner vc_custom_1490163913263">
-							<div class="wpb_wrapper">
-								<div class="ult-spacer spacer-63d123e9a80ac" data-id="63d123e9a80ac" data-height="30"
-									data-height-mobile="30" data-height-tab="30" data-height-tab-portrait=""
-									data-height-mobile-landscape="" style="clear:both;display:block;"></div>
-								<div class="ult-animation  ult-animate-viewport  ult-no-mobile "
-									data-animate="fadeInRight" data-animation-delay="1.1" data-animation-duration="1"
-									data-animation-iteration="1" style="opacity:0;" data-opacity_start_effect="">
-									<div class='dt-sc-title with-two-border with-sub-title'>
-										
-										<h2 stye="color:black!important">We smile carrying the hopes of the nation!</h2>
-									</div>
-									<div class="ult-spacer spacer-63d123e9a8161" data-id="63d123e9a8161" data-height="0"
-										data-height-mobile="0" data-height-tab="0" data-height-tab-portrait="0"
-										data-height-mobile-landscape="0" style="clear:both;display:block;"></div>
-									<div class="wpb_text_column wpb_content_element  banner-txt">
-										<div class="wpb_wrapper">
-											<p>As much as I love traveling, being on the field, and ‘making’ photographs, nothing beats the immense joy I feel sharing my knowledge with students who are really willing to learn photography. Being into this field for more than 12 years, and after intensive study and research of my own, I have come to identify the gaps in photography education that is available to students, be it online or offline. </p>
-											<p>I don’t want people to make the same mistakes I made when I was starting this photography journey.</p>
-											<p>It has always been my dream to share my knowledge with as many passionate people as possible, to inspire people to take photography up as a hobby, art, passion, or profession, and to build a strong community of photographers in Mumbai. </p>
-
-										</div>
-									</div>
-								</div>
-								<div class="ult-spacer spacer-63d123e9a8243" data-id="63d123e9a8243" data-height="20"
-									data-height-mobile="20" data-height-tab="20" data-height-tab-portrait=""
-									data-height-mobile-landscape="" style="clear:both;display:block;"></div>
-								<div class="vc_row wpb_row vc_inner vc_row-fluid icon-box-area">
-									<div class="wpb_column vc_column_container vc_col-sm-6">
-										<div class="vc_column-inner vc_custom_1490164172989">
-											<div class="wpb_wrapper">
-												<div class="ult-animation  ult-animate-viewport  ult-no-mobile "
-													data-animate="fadeInUp" data-animation-delay="1.4"
-													data-animation-duration="1" data-animation-iteration="1"
-													style="opacity:0;" data-opacity_start_effect="">
-													<div class="aio-icon-component    style_3">
-														<div id="Info-box-wrap-3170" class="aio-icon-box left-icon"
-															style="">
-															<div class="aio-icon-left">
-																<div class="ult-just-icon-wrapper  ">
-																	<div class="align-icon" style="text-align:center;">
-																		<div class="aio-icon-img "
-																			style="font-size:64px;display:inline-block;">
-																			<img class="img-icon" alt="null"
-																				src="https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/icon14.png" />
-																		</div>
-																	</div>
-																</div>
-															</div>
-															<div class="aio-ibd-block">
-																<div class="aio-icon-header">
-																	<h3 class="aio-icon-title ult-responsive"
-																		data-ultimate-target='#Info-box-wrap-3170 .aio-icon-title'
-																		data-responsive-json-new='{"font-size":"","line-height":""}'
-																		style="color:#ffffff;">We Practice like We've
-																		never Won</h3>
-																</div> <!-- header -->
-																<div class="aio-icon-description ult-responsive"
-																	data-ultimate-target='#Info-box-wrap-3170 .aio-icon-description'
-																	data-responsive-json-new='{"font-size":"","line-height":""}'
-																	style="color:#ffffff;">Etiam sit amet orci eget eros
-																	faucibus tincidunt.</div> <!-- description -->
-															</div> <!-- aio-ibd-block -->
-														</div> <!-- aio-icon-box -->
-													</div> <!-- aio-icon-component -->
-												</div>
-											</div>
-										</div>
-									</div>
-									<div class="single-icon wpb_column vc_column_container vc_col-sm-6">
-										<div class="vc_column-inner ">
-											<div class="wpb_wrapper">
-												<div class="ult-animation  ult-animate-viewport  ult-no-mobile "
-													data-animate="fadeInUp" data-animation-delay="1.7"
-													data-animation-duration="1" data-animation-iteration="1"
-													style="opacity:0;" data-opacity_start_effect="">
-													<div class="aio-icon-component    style_3">
-														<div id="Info-box-wrap-5884" class="aio-icon-box left-icon"
-															style="">
-															<div class="aio-icon-left">
-																<div class="ult-just-icon-wrapper  ">
-																	<div class="align-icon" style="text-align:center;">
-																		<div class="aio-icon-img "
-																			style="font-size:64px;display:inline-block;">
-																			<img class="img-icon" alt="null"
-																				src="https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/icon13.png" />
-																		</div>
-																	</div>
-																</div>
-															</div>
-															<div class="aio-ibd-block">
-																<div class="aio-icon-header">
-																	<h3 class="aio-icon-title ult-responsive"
-																		data-ultimate-target='#Info-box-wrap-5884 .aio-icon-title'
-																		data-responsive-json-new='{"font-size":"","line-height":""}'
-																		style="color:#ffffff;"> Perform like We've never
-																		lost!</h3>
-																</div> <!-- header -->
-																<div class="aio-icon-description ult-responsive"
-																	data-ultimate-target='#Info-box-wrap-5884 .aio-icon-description'
-																	data-responsive-json-new='{"font-size":"","line-height":""}'
-																	style="color:#ffffff;">Faucibus tincidunt etiam sit
-																	amet orci eget eros.</div> <!-- description -->
-															</div> <!-- aio-ibd-block -->
-														</div> <!-- aio-icon-box -->
-													</div> <!-- aio-icon-component -->
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
+				
 				<div class="vc_row-full-width vc_clearfix"></div>
 				<div class="vc_row wpb_row vc_row-fluid section34">
 					<div class="wpb_column vc_column_container vc_col-sm-12">
@@ -779,8 +529,9 @@
 									data-animation-delay="0.5" data-animation-duration="1" data-animation-iteration="1"
 									style="opacity:0;" data-opacity_start_effect="">
 									<div class='dt-sc-title with-two-border with-sub-title aligncenter'>
-										<h2>Meet Our Team of Photography &amp; Coaches</h2>
-										<h3>The more you practice, the better you will become!</h3>
+									<br>
+									<h2 class="mt-5">Meet Our Team of Photography &amp; Coaches</h2>
+										
 									</div>
 								</div>
 								<div class="ult-spacer spacer-63d123e9ac633" data-id="63d123e9ac633" data-height="20"

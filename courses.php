@@ -1420,7 +1420,17 @@
                               <p>Who is it for – People on a tight budget and/or tight schedule </p>
 <p>Curriculum – Minimum theory, mostly practical oriented</p>
 <p>Duration – 7 weekdays (2 hr/day)</p>
-<p>Investment – Rs. 20,000 + GST</p>
+<p>Investment – Rs. 15,000 + GST</p>
+<h5>TOPICS COVERED </h5>
+<p>- Lenses and their applications</p>
+<p>- Focusing (Autofocus, Manual Focus, and Autofocus Modes)</p>
+<p>- Exposure Triangle (Shutter Speed, Aperture, ISO)</p>
+<p>- Shooting Modes (PASM)</p>
+<p>- Depth of Field</p>
+<p>- 1-2 Portrait Photography Sessions</p>
+<p>- 1-2 Landscape Photography Sessions
+</p>
+
                             </div>
                           </div>
                        
@@ -1450,6 +1460,11 @@
                                     class="vc_single_image-img attachment-full" alt="" decoding="async" loading="lazy"
                                     srcset="https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/blog4.jpg 1230w, https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/blog4-600x437.jpg 600w, https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/blog4-300x219.jpg 300w, https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/blog4-768x559.jpg 768w, https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/blog4-1024x746.jpg 1024w"
                                     sizes="(max-width: 1230px) 100vw, 1230px" /></div>
+                                    <p>- Rules of Composition</p>
+<p>- White Balance</p>
+<p>- Metering Modes</p>
+<p>- Exposure Compensation</p>
+<p>- 1 Night Photography Session</p>
                               </figure>
                             </div>
                           </div>
@@ -1466,25 +1481,87 @@
                             <div class="wpb_wrapper">
                             <h3>Hobby Course</h3>
                          <p>Who is it for – People who want to learn the basics of photography as a casual hobby</p>
-                         <p>Curriculum – Basic Photography Course [Theory + Practicals + Basic Editing (Picasa)]</p>
+                         <p>Curriculum – Basic Photography Course [Theory + Practicals + Basic Editing]</p>
                          <p>Duration – 1 month (2hr/day)</p>
-                         <p>Investment - ???</p>
-                              <h3>Comprehensive Course</h3>
+                         <p>Investment – Rs. 30,000 + GST</p>
+                         <h5>TOPICS COVERED </h5>
+<p>- Introduction & Definition of Photography</p>
+<p>- DSLR/Mirrorless and its components, how DSLRs/Mirrorless work)</p>
+<p>- Basic DSLR/Mirrorless buttons and their functions</p>
+<p>- Lenses and types of lenses, focal length, types of lens mounts</p>
+<p>- Focusing – Autofocus, Manual Focus, AutoFocus Modes</p>
+<p>- Exposure Triangle : Aperture, Shutter Speed, ISO</p>
+<p>- Shooting Modes : PASM</p>
+<p>- Depth of Field</p>
+<p>- White Balance</p>
+<p>- Exposure Compensation</p>
+<p>- Understanding Lighting</p>
+<p>- Metering Modes : Matrix, Evaluative, Center-weighted, Spot etc.</p>
+<p>- Built-in flash</p>
+<p>- Rules of composition</p>
+<p>- Basics of post-processing/editing</p>
+<p>- 2-3 Portrait Photography Sessions</p>
+<p>- 2-3 Landscape Photography Sessions</p>
+<p>- 1-2 Night Photography Sessions</p>
+<img src="https://www.transparentpng.com/thumb/camera-logo/camera-optics-design-images-Y8uSyy.png" alt="">
 
-                            </div>
-                          </div>
+                            
 
-                          <div class="wpb_text_column wpb_content_element ">
-                            <div class="wpb_wrapper">
-                              <p>Who is it for – People who are serious about photography as a hobby and want to learn advanced techniques and skills   </p>
-<p>Curriculum – Basic + Advanced Photography Course [Theory + Practicals + Advanced Editing (Lightroom and Photoshop)]</p>
-<p>Duration – 2 months (2hr/day)</p>
-<p>Investment - ???</p>
 <h3>Professional Course</h3>
+
+
 <p>Who is it for – People looking to make a full-time career in any genre of photography </p>
+
 <p>Curriculum – Basic + Advanced Photography Course [Theory + Practicals + Advanced Editing (Lightroom and Photoshop)] + multiple photography workshops in fashion, food/product, weddings and events etc. </p>
+
 <p>Duration – 6 months (2hr/day)</p>
-<p>Investment - ???</p>
+
+
+<p>Investment – Rs. 4,00,000 + GST</p>
+<h5>TOPICS COVERED </h5>
+<p>- Introduction & Definition of Photography</p>
+<p>- DSLR/Mirrorless and its components, how DSLRs/Mirrorless work</p>
+<p>- Basic DSLR/Mirrorless buttons and their functions</p>
+<p>- Lenses and types of lenses, focal length, types of lens mounts</p>
+<p>- Focusing – Autofocus, Manual Focus, AutoFocus Modes</p>
+<p>- Exposure Triangle : Aperture, Shutter Speed, ISO</p>
+<p>- Shooting Modes : PASM</p>
+
+<p>- Depth of Field</p>
+<p>- White Balance</p>
+<p>- Exposure Compensation</p>
+<p>- Bracketing</p>
+<p>- Understanding Lighting</p>
+<p>- Metering Modes : Matrix, Evaluative, Center-weighted, Spot etc.</p>
+<p>- Rules of composition</p>
+<p>- Built-in Flash and Off-Camera Flash (OCF)</p>
+<p>- Flash Modifiers and Flash/Light Bouncing Techniques</p>
+<p>- Light Modifiers</p>
+
+
+<p>- Shooting in RAW</p>
+<p>- RAW Image Processing</p>
+<p>- Filters </p>
+<p>- Studio Lighting</p>
+<p>- Processing/Editing in Lightroom and Photoshop</p>
+<p>- Building portfolio Website</p>
+<p>- Pricing, Presentation, Marketing</p>
+
+<p>- Workflow</p>
+<p>- 3-4 Portrait Photography Sessions</p>
+<p>- 3-4 Landscape Photography Sessions</p>
+<p>- 1 Macro/Wildlife Photography Session</p>
+<p>- 1-2 Night Photography Sessions</p>
+<p>- 1 Astrophotography Session (seasonal)</p>
+<p>- 1 Product Photography Workshop</p>
+
+<p>- 1 or 2 Product/Food Styling Workshops</p>
+<p>- 1 Weddings & Events Photography Workshops</p>
+<p>- 2 Fashion Photography Workshops (1 Indoor and 1 Outdoor)</p>
+<p>- Extra Workshops depending on your specialization</p>
+
+
+
                             </div>
                           </div>
                          
@@ -1503,7 +1580,47 @@
                             style="opacity:0;" data-opacity_start_effect="">
                             <div class="wpb_single_image wpb_content_element vc_align_left">
       <img src="https://speos-photo.com/wp-content/uploads/2021/04/young-photographer-banner.png" alt="">
-                             
+      <h3>Comprehensive Course</h3>
+
+</div>
+</div>
+
+<div class="wpb_text_column wpb_content_element ">
+<div class="wpb_wrapper">
+  <p>Who is it for – People who are serious about photography as a hobby and want to learn advanced techniques and skills   </p>
+<p>Curriculum – Basic + Advanced Photography Course [Theory + Practicals + Advanced Editing (Lightroom and Photoshop)]</p>
+<p>Duration – 2 months (2hr/day)</p>
+<p>Investment – Rs. 50,000 + GST</p>
+<h5>TOPICS COVERED </h5>
+<p>- Introduction & Definition of Photography</p>
+<p>- DSLR/Mirrorless and its components, how DSLRs/Mirrorless work</p>
+<p>- Basic DSLR/Mirrorless buttons and their functions</p>
+<p>- Lenses and types of lenses, focal length, types of lens mounts</p>
+<p>- Focusing – Autofocus, Manual Focus, AutoFocus Modes</p>
+<p>- Exposure Triangle : Aperture, Shutter Speed, ISO</p>
+<p>- Shooting Modes : PASM</p>
+<p>- Depth of Field</p>
+<p>- White Balance</p>
+
+<p>- Exposure Compensation</p>
+<p>- Bracketing</p>
+<p>- Understanding Lighting</p>
+<p>- Metering Modes : Matrix, Evaluative, Center-weighted, Spot etc.</p>
+<p>- Rules of composition</p>
+<p>- Built-in Flash and Off-Camera Flash (OCF)</p>
+<p>- Flash Modifiers and Flash/Light Bouncing Techniques</p>
+<p>- Light Modifiers</p>
+<p>- Shooting in RAW</p>
+
+<p>- RAW Image Processing</p>
+<p>- Filters</p>
+<p>- Processing/Editing in Lightroom and Photoshop</p>
+<p>- 3-4 Portrait Photography Sessions</p>
+<p>- 3-4 Landscape Photography Sessions</p>
+<p>- 1 Macro/Wildlife Photography Session</p>
+<p>- 1-2 Night Photography Sessions</p>
+<p>- 1 Astrophotography Session (seasonal and optional)</p>
+<img src="http://girishshukla.com/wp-content/uploads/2018/08/photographer.png" alt="">
                             </div>
                           </div>
                         </div>

@@ -1307,7 +1307,7 @@
           <h1>Our Courses</h1>
         </div>
         <div class="breadcrumb"><a href="https://dtdance.wpengine.com/">Home</a><span class="fa default"></span><a
-            href="https://dtdance.wpengine.com/dt_class/american-rhythm/">American Rhythm</a></div>
+            href="https://dtdance.wpengine.com/dt_class/american-rhythm/">Course</a></div>
       </div>
     </section> <!-- ** Container ** -->
     <div class="container">

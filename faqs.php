@@ -19,7 +19,7 @@
 				<h1>Faq'S</h1>
 			</div>
 			<div class="breadcrumb"><a href="https://dtdance.wpengine.com/">Home</a><span
-					class="fa default"></span><span class="current">Contact 2</span></div>
+					class="fa default"></span><span class="current">Faq's</span></div>
 		</div>
 	</section> <!-- ** Container ** -->
 	<div class="container">

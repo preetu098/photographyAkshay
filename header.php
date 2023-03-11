@@ -1366,7 +1366,7 @@
 										<img class="darkbg_logo"
 											src="https://dtdance.wpenginepowered.com/wp-content/uploads/2017/08/dance-logo-dark.png"
 											alt="Dance" title="Dance" /> -->
-											<h1>Modern Technology</h1>
+											<h1>PhotoGraphy</h1>
 									</a>
 								</div>
 								<div id="menu-wrapper" class="menu-wrapper menu-default">

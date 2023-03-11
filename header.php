@@ -1386,7 +1386,7 @@
 												<a href="courses.php">Courses</a></li>
 											<li id="menu-item-7760"
 												class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-depth-0 menu-item-simple-parent ">
-												<a href="https://dtdance.wpengine.com/classes/">Services</a>
+												<a href="service.php">Services</a>
 
 
 												

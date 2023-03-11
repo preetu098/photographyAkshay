@@ -522,7 +522,7 @@
 					data-overlay-pattern-size="" data-overlay-pattern-attachment="scroll"></div>
 				<div data-vc-full-width="true" data-vc-full-width-init="false"
 					class="vc_row wpb_row vc_row-fluid section36">
-					<div class="wpb_column vc_column_container vc_col-sm-12">
+					<!-- <div class="wpb_column vc_column_container vc_col-sm-12">
 						<div class="vc_column-inner ">
 							<div class="wpb_wrapper">
 								<div class="ult-animation  ult-animate-viewport  ult-no-mobile " data-animate="bounceIn"
@@ -677,7 +677,7 @@
 								</div>
 							</div>
 						</div>
-					</div>
+					</div> -->
 					<div class="wpb_column vc_column_container vc_col-sm-12">
 						<div class="vc_column-inner ">
 							<div class="wpb_wrapper">

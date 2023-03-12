@@ -10,7 +10,7 @@
                                         <rs-slide data-key="rs-1" data-title="Slide"
                                             data-thumb="//dtdance.wpengine.com/wp-content/uploads/revslider/dance-home/slider1-1-100x50.jpg"
                                             data-anim="ei:d;eo:d;s:600;t:fade;sl:d;">
-                                            <img src="https://dtdance.wpenginepowered.com/wp-content/uploads/revslider/dance-home/slider1-1.jpg"
+                                            <img src="assets/images/photography/folder1/AdobeStock_57998835.jpeg"
                                                 title="Home" data-panzoom="d:10000;ss:100;se:120;" class="rev-slidebg"
                                                 data-no-retina>
                                             <!--
@@ -54,7 +54,7 @@
                                         <rs-slide data-key="rs-2" data-title="Slide"
                                             data-thumb="//dtdance.wpengine.com/wp-content/uploads/revslider/dance-home/slider2-1-100x50.jpg"
                                             data-anim="ei:d;eo:d;s:600;t:fade;sl:d;">
-                                            <img src="https://dtdance.wpenginepowered.com/wp-content/uploads/revslider/dance-home/slider2-1.jpg"
+                                            <img src="assets/images/photography/folder1/AdobeStock_157443080.jpeg"
                                                 title="Home" data-panzoom="d:10000;ss:100;se:115;" class="rev-slidebg"
                                                 data-no-retina>
                                            <rs-layer id="slider-1-slide-2-layer-1" data-type="text" data-color="#ffffff" data-rsp_ch="on"
@@ -96,7 +96,7 @@
 --> </rs-slide>
                                         <rs-slide data-key="rs-3" data-title="Slide"
                                             data-anim="ei:d;eo:d;s:600;t:fade;sl:d;">
-                                            <img src="https://dtdance.wpenginepowered.com/wp-content/plugins/revslider/public/assets/assets/transparent.png"
+                                            <img src="assets/images/photography/Wedding-Events Photography/AdobeStock_165520839.jpeg"
                                                 alt="Slide" title="Home" data-bg="c:#e6e4e4;" class="rev-slidebg"
                                                 data-no-retina>
                                             <!--
@@ -107,7 +107,7 @@
                                                 data-frame_1="tp:600;e:power3.out;st:500;sp:1500;sR:500;"
                                                 data-frame_1_mask="u:t;" data-frame_999="o:0;tp:600;st:w;sR:7000;"
                                                 style="z-index:5;"><img
-                                                    src="https://dtdance.wpenginepowered.com/wp-content/uploads/revslider/dance-home/slider3-1.jpg"
+                                                    src="assets/images/photography/Generic Photography Images/AdobeStock_92524828.jpeg"
                                                     width="798" height="822" data-no-retina>
                                             </rs-layer><!--
 
@@ -118,7 +118,7 @@
                                                 data-frame_1="tp:600;e:power3.out;st:1970;sp:1500;sR:1970;"
                                                 data-frame_1_mask="u:t;" data-frame_999="o:0;tp:600;st:w;sR:5530;"
                                                 style="z-index:6;"><img
-                                                    src="https://dtdance.wpenginepowered.com/wp-content/uploads/revslider/dance-home/slider5.jpg"
+                                                    src="assets/images/photography/Generic Photography Images/AdobeStock_148407238.jpeg"
                                                     width="784" height="842" data-no-retina>
                                             </rs-layer><!--
 
@@ -127,7 +127,7 @@
                                                 data-frame_0="x:-200px;tp:600;"
                                                 data-frame_1="tp:600;e:power4.inOut;st:3460;sp:1500;sR:3460;"
                                                 data-frame_999="o:0;tp:600;st:w;sR:4040;" style="z-index:7;"><img
-                                                    src="https://dtdance.wpenginepowered.com/wp-content/uploads/revslider/dance-home/slider4.jpg"
+                                                    src="assets/images/photography/Generic Photography Images/AdobeStock_312211954.jpeg"
                                                     width="519" height="587" data-no-retina>
                                             </rs-layer><!--
 
@@ -289,6 +289,7 @@
                                                 data-animation-duration="1" data-animation-iteration="1"
                                                 style="opacity:0;" data-opacity_start_effect="">
                                                 <div class='dt-sc-title with-two-border with-sub-title default'>
+                                                    <br><br>
                                                     <h2 style="margin-top:10px!important">Welcome to SoulFul Photography Academy</h2>
                                                     <h3>Mumbai’s premier photography education institute</h3>
                                                 </div>
@@ -314,10 +315,10 @@
                                                     <figure class="wpb_wrapper vc_figure">
                                                         <div class="vc_single_image-wrapper   vc_box_border_grey"><img
                                                                 width="405" height="545"
-                                                                src="https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/girl.jpg"
+                                                                src="assets/images/photography/Generic Photography Images/AdobeStock_312211954.jpeg"
                                                                 class="vc_single_image-img attachment-full" alt=""
                                                                 decoding="async" loading="lazy"
-                                                                srcset="https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/girl.jpg 405w, https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/girl-223x300.jpg 223w"
+                                                                srcset="assets/images/photography/Generic Photography Images/AdobeStock_312211954.jpeg, assets/images/photography/Generic Photography Images/AdobeStock_312211954.jpeg"
                                                                 sizes="(max-width: 405px) 100vw, 405px" /></div>
                                                     </figure>
                                                 </div>
@@ -362,7 +363,7 @@
 
                             
                             <div class="vc_row-full-width vc_clearfix"></div>
-                            <div class="vc_row wpb_row vc_row-fluid">
+                            <div class="vc_row wpb_row vc_row-fluid" style="margin-top:-200px!important">
                                 <div class="wpb_column vc_column_container vc_col-sm-12">
                                     <div class="vc_column-inner ">
                                         <div class="wpb_wrapper">
@@ -486,10 +487,10 @@
                                                     <figure class="wpb_wrapper vc_figure">
                                                         <div class="vc_single_image-wrapper   vc_box_border_grey"><img
                                                                 width="692" height="1097"
-                                                                src="https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/dance-girl.png"
+                                                                src="assets/images/photography/folder1/AdobeStock_238527125.jpeg"
                                                                 class="vc_single_image-img attachment-full" alt=""
                                                                 decoding="async" loading="lazy"
-                                                                srcset="https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/dance-girl.png 692w, https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/dance-girl-600x951.png 600w, https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/dance-girl-189x300.png 189w, https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/dance-girl-646x1024.png 646w"
+                                                                srcset="assets/images/photography/folder1/AdobeStock_238527125.jpeg, assets/images/photography/folder1/AdobeStock_238527125.jpeg,assets/images/photography/folder1/AdobeStock_238527125.jpeg,assets/images/photography/folder1/AdobeStock_238527125.jpeg"
                                                                 sizes="(max-width: 692px) 100vw, 692px" /></div>
                                                     </figure>
                                                 </div>
@@ -508,7 +509,7 @@
                                                     data-height="120" data-height-mobile="120" data-height-tab="120"
                                                     data-height-tab-portrait="" data-height-mobile-landscape=""
                                                     style="clear:both;display:block;"></div>
-                                                <h3 style="font-size: 30px;line-height: 40px;text-align: left;font-family:Roboto Condensed;font-weight:300;font-style:normal"
+                                                <h3 style="margin-top:-100px!important;font-size: 30px;line-height: 40px;text-align: left;font-family:Roboto Condensed;font-weight:300;font-style:normal"
                                                     class="vc_custom_heading vcr_heading-right vc_custom_1501564624713">
                                                     Is Photography an art or science,that is a question for eternity</h3>
                                                 <h2 style="font-size: 40px;line-height: 50px;text-align: left;font-family:Roboto Condensed;font-weight:700;font-style:normal"
@@ -525,7 +526,7 @@
                                                 data-height="20" data-height-mobile="20" data-height-tab="20"
                                                 data-height-tab-portrait="" data-height-mobile-landscape=""
                                                 style="clear:both;display:block;"></div>
-                                            <div class="vc_row wpb_row vc_inner vc_row-fluid">
+                                            <!-- <div class="vc_row wpb_row vc_inner vc_row-fluid">
                                                 <div class="wpb_column vc_column_container vc_col-sm-6">
                                                     <div class="vc_column-inner ">
                                                         <div class="wpb_wrapper">
@@ -618,7 +619,7 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                            </div>
+                                            </div> -->
                                             <div class="ult-spacer spacer-63cf7e56d8813" data-id="63cf7e56d8813"
                                                 data-height="40" data-height-mobile="40" data-height-tab="40"
                                                 data-height-tab-portrait="" data-height-mobile-landscape=""
@@ -638,7 +639,7 @@
                                 </div>
                             </div>
                             <div class="vc_row-full-width vc_clearfix"></div><!-- Row Backgrounds -->
-                            <div data-vc-full-width="true" data-vc-full-width-init="false"
+                            <div style="margin-top:-100px!important" data-vc-full-width="true" data-vc-full-width-init="false"
                                 data-vc-stretch-content="true"
                                 class="vc_row wpb_row vc_row-fluid wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp vc_row-no-padding">
                                 <div class="wpb_column vc_column_container vc_col-sm-12">
@@ -652,10 +653,10 @@
                                                         <div class='dt-sc-image-caption type3 '>
                                                             <div class='dt-sc-image-wrapper'><img width="385"
                                                                     height="500"
-                                                                    src="https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/image-caption.jpg"
+                                                                    src="assets/images/photography/Generic Photography Images/AdobeStock_148407238.jpeg"
                                                                     class="attachment-full" alt="" decoding="async"
                                                                     loading="lazy"
-                                                                    srcset="https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/image-caption.jpg 385w, https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/image-caption-231x300.jpg 231w"
+                                                                    srcset="assets/images/photography/Generic Photography Images/AdobeStock_148407238.jpeg, assets/images/photography/Generic Photography Images/AdobeStock_148407238.jpeg"
                                                                     sizes="(max-width: 385px) 100vw, 385px" /></a></div>
                                                             <div class='dt-sc-image-content'>
                                                                 <div class='dt-sc-image-title'>
@@ -669,10 +670,10 @@
                                                         <div class='dt-sc-image-caption type3 '>
                                                             <div class='dt-sc-image-wrapper'><img width="385"
                                                                     height="500"
-                                                                    src="https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/image-caption1.jpg"
+                                                                    src="assets/images/photography/Generic Photography Images/AdobeStock_148407238.jpeg"
                                                                     class="attachment-full" alt="" decoding="async"
                                                                     loading="lazy"
-                                                                    srcset="https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/image-caption1.jpg 385w, https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/image-caption1-231x300.jpg 231w"
+                                                                    srcset="assets/images/photography/Generic Photography Images/AdobeStock_148407238.jpeg, assets/images/photography/Generic Photography Images/AdobeStock_148407238.jpeg 231w"
                                                                     sizes="(max-width: 385px) 100vw, 385px" /></a></div>
                                                             <div class='dt-sc-image-content'>
                                                                 <div class='dt-sc-image-title'>
@@ -686,10 +687,10 @@
                                                         <div class='dt-sc-image-caption type3 '>
                                                             <div class='dt-sc-image-wrapper'><img width="385"
                                                                     height="500"
-                                                                    src="https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/image-caption2.jpg"
+                                                                    src="assets/images/photography/Generic Photography Images/AdobeStock_148407238.jpeg"
                                                                     class="attachment-full" alt="" decoding="async"
                                                                     loading="lazy"
-                                                                    srcset="https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/image-caption2.jpg 385w, https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/image-caption2-231x300.jpg 231w"
+                                                                    srcset="assets/images/photography/Generic Photography Images/AdobeStock_148407238.jpeg, assets/images/photography/Generic Photography Images/AdobeStock_148407238.jpeg"
                                                                     sizes="(max-width: 385px) 100vw, 385px" /></a></div>
                                                             <div class='dt-sc-image-content'>
                                                                 <div class='dt-sc-image-title'>
@@ -703,10 +704,10 @@
                                                         <div class='dt-sc-image-caption type3 '>
                                                             <div class='dt-sc-image-wrapper'><img width="385"
                                                                     height="500"
-                                                                    src="https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/image-caption3.jpg"
+                                                                    src="assets/images/photography/Generic Photography Images/AdobeStock_148407238.jpeg"
                                                                     class="attachment-full" alt="" decoding="async"
                                                                     loading="lazy"
-                                                                    srcset="https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/image-caption3.jpg 385w, https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/image-caption3-231x300.jpg 231w"
+                                                                    srcset="assets/images/photography/Generic Photography Images/AdobeStock_148407238.jpeg, assets/images/photography/Generic Photography Images/AdobeStock_148407238.jpeg"
                                                                     sizes="(max-width: 385px) 100vw, 385px" /></a></div>
                                                             <div class='dt-sc-image-content'>
                                                                 <div class='dt-sc-image-title'>
@@ -720,10 +721,10 @@
                                                         <div class='dt-sc-image-caption type3 '>
                                                             <div class='dt-sc-image-wrapper'><img width="385"
                                                                     height="500"
-                                                                    src="https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/image-caption4.jpg"
+                                                                    src="assets/images/photography/Generic Photography Images/AdobeStock_148407238.jpeg"
                                                                     class="attachment-full" alt="" decoding="async"
                                                                     loading="lazy"
-                                                                    srcset="https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/image-caption4.jpg 385w, https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/image-caption4-231x300.jpg 231w"
+                                                                    srcset="assets/images/photography/Generic Photography Images/AdobeStock_148407238.jpeg, assets/images/photography/Generic Photography Images/AdobeStock_148407238.jpeg"
                                                                     sizes="(max-width: 385px) 100vw, 385px" /></a></div>
                                                             <div class='dt-sc-image-content'>
                                                                 <div class='dt-sc-image-title'>
@@ -737,10 +738,10 @@
                                                         <div class='dt-sc-image-caption type3 '>
                                                             <div class='dt-sc-image-wrapper'><img width="385"
                                                                     height="500"
-                                                                    src="https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/image-caption.jpg"
+                                                                    src="assets/images/photography/Generic Photography Images/AdobeStock_148407238.jpeg"
                                                                     class="attachment-full" alt="" decoding="async"
                                                                     loading="lazy"
-                                                                    srcset="https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/image-caption.jpg 385w, https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/image-caption-231x300.jpg 231w"
+                                                                    srcset="assets/images/photography/Generic Photography Images/AdobeStock_148407238.jpeg, assets/images/photography/Generic Photography Images/AdobeStock_148407238.jpeg"
                                                                     sizes="(max-width: 385px) 100vw, 385px" /></a></div>
                                                             <div class='dt-sc-image-content'>
                                                                 <div class='dt-sc-image-title'>
@@ -754,10 +755,10 @@
                                                         <div class='dt-sc-image-caption type3 '>
                                                             <div class='dt-sc-image-wrapper'><img width="385"
                                                                     height="500"
-                                                                    src="https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/image-caption1.jpg"
+                                                                    src="assets/images/photography/Generic Photography Images/AdobeStock_148407238.jpeg"
                                                                     class="attachment-full" alt="" decoding="async"
                                                                     loading="lazy"
-                                                                    srcset="https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/image-caption1.jpg 385w, https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/image-caption1-231x300.jpg 231w"
+                                                                    srcset="assets/images/photography/Generic Photography Images/AdobeStock_148407238.jpeg, assets/images/photography/Generic Photography Images/AdobeStock_148407238.jpeg"
                                                                     sizes="(max-width: 385px) 100vw, 385px" /></a></div>
                                                             <div class='dt-sc-image-content'>
                                                                 <div class='dt-sc-image-title'>
@@ -771,10 +772,10 @@
                                                         <div class='dt-sc-image-caption type3 '>
                                                             <div class='dt-sc-image-wrapper'><img width="385"
                                                                     height="500"
-                                                                    src="https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/image-caption2.jpg"
+                                                                    src="assets/images/photography/Generic Photography Images/AdobeStock_148407238.jpeg"
                                                                     class="attachment-full" alt="" decoding="async"
                                                                     loading="lazy"
-                                                                    srcset="https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/image-caption2.jpg 385w, https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/image-caption2-231x300.jpg 231w"
+                                                                    srcset="assets/images/photography/Generic Photography Images/AdobeStock_148407238.jpeg, assets/images/photography/Generic Photography Images/AdobeStock_148407238.jpeg"
                                                                     sizes="(max-width: 385px) 100vw, 385px" /></a></div>
                                                             <div class='dt-sc-image-content'>
                                                                 <div class='dt-sc-image-title'>
@@ -788,10 +789,10 @@
                                                         <div class='dt-sc-image-caption type3 '>
                                                             <div class='dt-sc-image-wrapper'><img width="385"
                                                                     height="500"
-                                                                    src="https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/image-caption3.jpg"
+                                                                    src="assets/images/photography/Generic Photography Images/AdobeStock_148407238.jpeg"
                                                                     class="attachment-full" alt="" decoding="async"
                                                                     loading="lazy"
-                                                                    srcset="https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/image-caption3.jpg 385w, https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/image-caption3-231x300.jpg 231w"
+                                                                    srcset="assets/images/photography/Generic Photography Images/AdobeStock_148407238.jpeg, assets/images/photography/Generic Photography Images/AdobeStock_148407238.jpeg"
                                                                     sizes="(max-width: 385px) 100vw, 385px" /></a></div>
                                                             <div class='dt-sc-image-content'>
                                                                 <div class='dt-sc-image-title'>
@@ -973,7 +974,7 @@
                             </div>
                             <div class="vc_row-full-width vc_clearfix"></div><!-- Row Backgrounds -->
                             <div class="upb_bg_img"
-                                data-ultimate-bg="url(https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/combine-img-1.jpg)"
+                                data-ultimate-bg="url(assets/images/photography/folder4/AdobeStock_215632300.jpeg)"
                                 data-image-id="id^7672|url^https://dtdance.wpengine.com/wp-content/uploads/2017/07/combine-img-1.jpg|caption^null|alt^null|title^combine-img|description^null"
                                 data-ultimate-bg-style="vcpb-default" data-bg-img-repeat="no-repeat"
                                 data-bg-img-size="contain" data-bg-img-position="" data-parallx_sense="30"
@@ -1029,10 +1030,10 @@
                                                     <div class="entry-thumb"> <a
                                                             href=""><img
                                                                 width="1230" height="896"
-                                                                src="https://dtdance.wpenginepowered.com/wp-content/uploads/2015/06/danceblog2.jpg"
+                                                                src="assets/images/photography/folder1/AdobeStock_238527125.jpeg"
                                                                 class="attachment-full size-full wp-post-image" alt=""
                                                                 decoding="async"
-                                                                srcset="https://dtdance.wpenginepowered.com/wp-content/uploads/2015/06/danceblog2.jpg 1230w, https://dtdance.wpenginepowered.com/wp-content/uploads/2015/06/danceblog2-600x437.jpg 600w, https://dtdance.wpenginepowered.com/wp-content/uploads/2015/06/danceblog2-300x219.jpg 300w, https://dtdance.wpenginepowered.com/wp-content/uploads/2015/06/danceblog2-768x559.jpg 768w, https://dtdance.wpenginepowered.com/wp-content/uploads/2015/06/danceblog2-1024x746.jpg 1024w"
+                                                                srcset="assets/images/photography/folder1/AdobeStock_238527125.jpeg, assets/images/photography/folder1/AdobeStock_238527125.jpeg, assets/images/photography/folder1/AdobeStock_238527125.jpeg, assets/images/photography/folder1/AdobeStock_238527125.jpeg,assets/images/photography/folder1/AdobeStock_238527125.jpeg4edx"
                                                                 sizes="(max-width: 1230px) 100vw, 1230px" /></a>
                                                         <div class="entry-format hidden"> <a class="ico-format"
                                                                 href=""></a> </div>
@@ -1076,10 +1077,10 @@
                                                     <div class="entry-thumb"> <a
                                                             href=""><img
                                                                 width="1230" height="896"
-                                                                src="https://dtdance.wpenginepowered.com/wp-content/uploads/2015/06/danceblog10.jpg"
+                                                                src="assets/images/photography/folder4/AdobeStock_247275495.jpeg"
                                                                 class="attachment-full size-full wp-post-image" alt=""
                                                                 decoding="async" loading="lazy"
-                                                                srcset="https://dtdance.wpenginepowered.com/wp-content/uploads/2015/06/danceblog10.jpg 1230w, https://dtdance.wpenginepowered.com/wp-content/uploads/2015/06/danceblog10-600x437.jpg 600w, https://dtdance.wpenginepowered.com/wp-content/uploads/2015/06/danceblog10-300x219.jpg 300w, https://dtdance.wpenginepowered.com/wp-content/uploads/2015/06/danceblog10-768x559.jpg 768w, https://dtdance.wpenginepowered.com/wp-content/uploads/2015/06/danceblog10-1024x746.jpg 1024w"
+                                                                srcset="assets/images/photography/folder4/AdobeStock_247275495.jpeg, assets/images/photography/folder4/AdobeStock_247275495.jpeg,assets/images/photography/folder4/AdobeStock_247275495.jpeg,assets/images/photography/folder4/AdobeStock_247275495.jpeg,assets/images/photography/folder4/AdobeStock_247275495.jpeg"
                                                                 sizes="(max-width: 1230px) 100vw, 1230px" /></a>
                                                         <div class="entry-format hidden"> <a class="ico-format"
                                                                 href=""></a> </div>
@@ -1124,10 +1125,10 @@
                                                     <div class="entry-thumb">
                                                         <ul class="entry-gallery-post-slider">
                                                             <li><img width="1230" height="896"
-                                                                    src="https://dtdance.wpenginepowered.com/wp-content/uploads/2015/06/danceblog6.jpg"
+                                                                    src="assets/images/photography/folder4/AdobeStock_410083539.jpeg"
                                                                     class="attachment-full size-full" alt=""
                                                                     decoding="async" loading="lazy"
-                                                                    srcset="https://dtdance.wpenginepowered.com/wp-content/uploads/2015/06/danceblog6.jpg 1230w, https://dtdance.wpenginepowered.com/wp-content/uploads/2015/06/danceblog6-600x437.jpg 600w, https://dtdance.wpenginepowered.com/wp-content/uploads/2015/06/danceblog6-300x219.jpg 300w, https://dtdance.wpenginepowered.com/wp-content/uploads/2015/06/danceblog6-768x559.jpg 768w, https://dtdance.wpenginepowered.com/wp-content/uploads/2015/06/danceblog6-1024x746.jpg 1024w"
+                                                                    srcset="assets/images/photography/folder4/AdobeStock_410083539.jpeg, assets/images/photography/folder4/AdobeStock_410083539.jpeg, assets/images/photography/folder4/AdobeStock_410083539.jpeg, assets/images/photography/folder4/AdobeStock_410083539.jpeg, assets/images/photography/folder4/AdobeStock_410083539.jpeg"
                                                                     sizes="(max-width: 1230px) 100vw, 1230px" /></li>
                                                             <li><img width="1230" height="896"
                                                                     src="https://dtdance.wpenginepowered.com/wp-content/uploads/2015/06/danceblog5.jpg"
@@ -1205,7 +1206,7 @@
                             </div>
                             <div class="vc_row-full-width vc_clearfix"></div><!-- Row Backgrounds -->
                             <div class="upb_bg_img"
-                                data-ultimate-bg="url(https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/bg-img.jpg)"
+                                data-ultimate-bg="url(assets/images/photography/folder4/AdobeStock_410083539.jpeg)"
                                 data-image-id="id^7689|url^https://dtdance.wpengine.com/wp-content/uploads/2017/07/bg-img.jpg|caption^null|alt^null|title^bg-img|description^null"
                                 data-ultimate-bg-style="vcpb-vz-jquery" data-bg-img-repeat="repeat"
                                 data-bg-img-size="cover" data-bg-img-position="" data-parallx_sense="30"
@@ -1240,7 +1241,7 @@
                                 </div>
                                 <div class="wpb_column vc_column_container vc_col-sm-6">
                                     <h3>We believe that classroom learning can NEVER be replaced by online content or courses. </h3>
-                                    <img src="https://images.squarespace-cdn.com/content/v1/626810a4e1074323cfe7217f/488d0326-38be-4759-8050-7ab2f7f8134a/Sandra+Coan+Education+-+photography+Classes+-+Flash+Photography++-+About+Sandra.png" class="img-fluid" alt="">
+                                    <img src="assets/images/photography/Generic Photography Images/daniel-korpai-gC3L58xaENE-unsplash.jpg" class="img-fluid" alt="">
                                 </div>
                             </div>
                         </div>

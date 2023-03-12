@@ -4,7 +4,7 @@
 <!-- **Main** -->
 <div id="main">
 	<section class="main-title-section-wrapper aligncenter"
-		style="background:url(https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/breadcrumb-1-1.jpg) left top / auto repeat scroll;">
+		style="background:url(assets/images/photography/Wedding-Events Photography/AdobeStock_248495727.jpeg) left top / auto repeat scroll;">
 		<div class="container">
 			<div class="main-title-section">
 				<h1>About</h1>
@@ -29,10 +29,10 @@
 										<figure class="wpb_wrapper vc_figure">
 											<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="420"
 													height="525"
-													src="https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/about4.jpg"
+													src="assets/images/photography/Generic Photography Images/keagan-henman-5zJwvOlu99A-unsplash.jpg"
 													class="vc_single_image-img attachment-full" alt="" decoding="async"
 													loading="lazy"
-													srcset="https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/about4.jpg 420w, https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/about4-240x300.jpg 240w"
+													srcset=""
 													sizes="(max-width: 420px) 100vw, 420px" /></div>
 										</figure>
 									</div>
@@ -242,10 +242,10 @@
 														<figure class="wpb_wrapper vc_figure">
 															<div class="vc_single_image-wrapper   vc_box_border_grey">
 																<img width="768" height="496"
-																	src="https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/about3.jpg"
+																	src="assets/images/photography/Generic Photography Images/cameras.png"
 																	class="vc_single_image-img attachment-full" alt=""
 																	decoding="async" loading="lazy"
-																	srcset="https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/about3.jpg 768w, https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/about3-600x388.jpg 600w, https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/about3-300x194.jpg 300w"
+																	srcset="assets/images/photography/Generic Photography Images/cameras.png, assets/images/photography/Generic Photography Images/cameras.png, assets/images/photography/Generic Photography Images/cameras.png"
 																	sizes="(max-width: 768px) 100vw, 768px" /></div>
 														</figure>
 													</div>
@@ -365,10 +365,10 @@
 																<div class='dt-sc-testimonial type3 '>
 																	<div class="dt-sc-testimonial-author"><span><img
 																				width="300" height="300"
-																				src="https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/testi-1.jpg"
+																				src="assets/images/photography/Generic Photography Images/cameras.png"
 																				class="attachment-full" alt=""
 																				decoding="async" loading="lazy"
-																				srcset="https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/testi-1.jpg 300w, https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/testi-1-100x100.jpg 100w, https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/testi-1-150x150.jpg 150w"
+																				srcset="assets/images/photography/Generic Photography Images/cameras.png, assets/images/photography/Generic Photography Images/cameras.png, assets/images/photography/Generic Photography Images/cameras.png"
 																				sizes="(max-width: 300px) 100vw, 300px" /></span><cite>Mamie
 																			Goodman<small>Admin, ABC Inc</small></cite>
 																	</div>
@@ -397,10 +397,10 @@
 																<div class='dt-sc-testimonial type3 '>
 																	<div class="dt-sc-testimonial-author"><span><img
 																				width="300" height="300"
-																				src="https://dtdance.wpenginepowered.com/wp-content/uploads/2015/06/testi-6.jpg"
+																				src="assets/images/photography/Generic Photography Images/cameras.png"
 																				class="attachment-full" alt=""
 																				decoding="async" loading="lazy"
-																				srcset="https://dtdance.wpenginepowered.com/wp-content/uploads/2015/06/testi-6.jpg 300w, https://dtdance.wpenginepowered.com/wp-content/uploads/2015/06/testi-6-100x100.jpg 100w, https://dtdance.wpenginepowered.com/wp-content/uploads/2015/06/testi-6-150x150.jpg 150w"
+																				srcset="assets/images/photography/Generic Photography Images/cameras.png, assets/images/photography/Generic Photography Images/cameras.png,assets/images/photography/Generic Photography Images/cameras.png"
 																				sizes="(max-width: 300px) 100vw, 300px" /></span><cite>Mary
 																			Angel<small>Director of Ramsey &amp;
 																				Co</small></cite></div>
@@ -429,10 +429,10 @@
 																<div class='dt-sc-testimonial type3 '>
 																	<div class="dt-sc-testimonial-author"><span><img
 																				width="300" height="300"
-																				src="https://dtdance.wpenginepowered.com/wp-content/uploads/2015/06/testi-4.jpg"
+																				src="assets/images/photography/Generic Photography Images/cameras.png"
 																				class="attachment-full" alt=""
 																				decoding="async" loading="lazy"
-																				srcset="https://dtdance.wpenginepowered.com/wp-content/uploads/2015/06/testi-4.jpg 300w, https://dtdance.wpenginepowered.com/wp-content/uploads/2015/06/testi-4-100x100.jpg 100w, https://dtdance.wpenginepowered.com/wp-content/uploads/2015/06/testi-4-150x150.jpg 150w"
+																				srcset="assets/images/photography/Generic Photography Images/cameras.png,assets/images/photography/Generic Photography Images/cameras.png,assets/images/photography/Generic Photography Images/cameras.png"
 																				sizes="(max-width: 300px) 100vw, 300px" /></span><cite>Elvira
 																			Crawford<small>Director of ABC
 																				Inc</small></cite></div>
@@ -509,7 +509,7 @@
 				</div>
 				<div class="vc_row-full-width vc_clearfix"></div><!-- Row Backgrounds -->
 				<div class="upb_bg_img"
-					data-ultimate-bg="url(https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/aboutbg2.jpg)"
+					data-ultimate-bg="url(assets/images/photography/Generic Photography Images/cameras.png)"
 					data-image-id="id^8612|url^https://dtdance.wpengine.com/wp-content/uploads/2017/07/aboutbg2.jpg|caption^null|alt^null|title^aboutbg2|description^null"
 					data-ultimate-bg-style="vcpb-vz-jquery" data-bg-img-repeat="repeat" data-bg-img-size="cover"
 					data-bg-img-position="" data-parallx_sense="30" data-bg-override="0" data-bg_img_attach="scroll"
@@ -892,10 +892,10 @@
 										<figure class="wpb_wrapper vc_figure">
 											<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="1170"
 													height="827"
-													src="https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/about2b.jpg"
+													src="assets/images/photography/Generic Photography Images/daniel-korpai-gC3L58xaENE-unsplash.jpg"
 													class="vc_single_image-img attachment-full" alt="" decoding="async"
 													loading="lazy"
-													srcset="https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/about2b.jpg 1170w, https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/about2b-600x424.jpg 600w, https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/about2b-300x212.jpg 300w, https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/about2b-768x543.jpg 768w, https://dtdance.wpenginepowered.com/wp-content/uploads/2017/07/about2b-1024x724.jpg 1024w"
+													srcset=""
 													sizes="(max-width: 1170px) 100vw, 1170px" /></div>
 										</figure>
 									</div>

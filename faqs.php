@@ -13,7 +13,7 @@
 <!-- **Main** -->
 <div id="main">
 	<section class="main-title-section-wrapper aligncenter"
-		style="background:url(https://photographylife.com/wp-content/uploads/2016/06/Dragonfly.jpg) left top / auto repeat scroll;">
+		style="background:url(assets/images/photography/Generic Photography Images/william-bayreuther-hfk6xOjQlFk-unsplash.jpg) left top / auto repeat scroll;">
 		<div class="container">
 			<div class="main-title-section">
 				<h1>Faq'S</h1>
@@ -39,7 +39,7 @@
 									</div>
 									<section1>
         <div class="imgBx">
-            <img src="https://s.psecn.photoshelter.com/ps-inc/website/graphics/what-makes-us-unique-circle.png" alt="">
+            <img src="assets/images/photography/Generic Photography Images/jeshoots-com-p8kaVRe4edM-unsplash.jpg" alt="">
         </div>
 		<br><br>
         <div class="contentBx ">

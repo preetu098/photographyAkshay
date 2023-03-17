@@ -13,7 +13,7 @@
 <!-- **Main** -->
 <div id="main">
 	<section class="main-title-section-wrapper aligncenter"
-		style="background:url(https://photographylife.com/wp-content/uploads/2016/06/Dragonfly.jpg) left top / auto repeat scroll;">
+		style="background:url(assets/images/photography/folder1/AdobeStock_331709904.jpeg) left top / auto repeat scroll;">
 		<div class="container">
 			<div class="main-title-section">
 				<h1>Service</h1>
@@ -39,66 +39,66 @@
 									</div>
 									<section1>
         <div class="imgBx">
-            <img src="https://www.pngplay.com/wp-content/uploads/7/Camera-Silhouette-PNG-HD-Quality.png" alt="">
+            <img src="assets/images/photography/folder4/brooke-lark-AdMHAf_cdns-unsplash.jpg" alt="">
         </div>
 		<br><br>
         <div class="contentBx ">
                             
-                            <div class="accordion accordion-flush" id="accordionFlushExample" style="margin-top:-300px!important;">
+                            <div class="accordion accordion-flush" id="accordionFlushExample" style="margin-top:-100px!important;">
     <div class="accordion-item">
-        <p class="accordion-header" id="flush-headingOne">
+        <p class="accordion-header mt-3" id="flush-headingOne">
         - Wedding Photography, Videography, Cinematography
         </p>
     </div>
     <div class="accordion-item">
-        <p class="accordion-header" id="flush-headingTwo">
+        <p class="accordion-header  mt-3" id="flush-headingTwo">
         - Pre-Wedding Photoshoot/Video Shoot
         </p>
     </div>
  
     <div class="accordion-item">
-        <p class="accordion-header" id="flush-headingOne">
+        <p class="accordion-header  mt-3" id="flush-headingOne">
         - Event Photography
         </p>
     </div>
     <div class="accordion-item">
-        <p class="accordion-header" id="flush-headingTwo">
+        <p class="accordion-header  mt-3" id="flush-headingTwo">
         - Pet Photography
         </p>
     </div>
 
     <div class="accordion-item">
-        <p class="accordion-header" id="flush-headingOne">
+        <p class="accordion-header  mt-3" id="flush-headingOne">
         - Fashion Photoshoot/Model Portfolio Shoot
         </p>
     </div>
     <div class="accordion-item">
-        <p class="accordion-header" id="flush-headingTwo">
+        <p class="accordion-header  mt-3" id="flush-headingTwo">
         - Maternity Photoshoot
         </p>
     </div>
     <div class="accordion-item">
-        <p class="accordion-header" id="flush-headingTwo">
+        <p class="accordion-header  mt-3" id="flush-headingTwo">
         - Newborn/Baby Photoshoot
         </p>
     </div>
     <div class="accordion-item">
-        <p class="accordion-header" id="flush-headingTwo">
+        <p class="accordion-header  mt-3" id="flush-headingTwo">
         - Product Photography
         </p>
     </div>
     <div class="accordion-item">
-        <p class="accordion-header" id="flush-headingTwo">
+        <p class="accordion-header  mt-3" id="flush-headingTwo">
         - Food Photography
         </p>
     </div>
     <div class="accordion-item">
-        <p class="accordion-header" id="flush-headingTwo">
+        <p class="accordion-header  mt-3" id="flush-headingTwo">
         - Product Ads/Commercials
         </p>
     </div>
     <div class="accordion-item">
-        <p class="accordion-header" id="flush-headingTwo">
+        <p class="accordion-header  mt-3" id="flush-headingTwo">
         - Real Estate/Interiors/Architecture Photography
         </p>
     </div>

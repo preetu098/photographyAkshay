@@ -34,7 +34,7 @@ if (isset($_POST['submit'])) {
 <!-- **Main** -->
 <div id="main">
 	<section class="main-title-section-wrapper aligncenter"
-		style="background:url(https://assets-global.website-files.com/6009ec8cda7f305645c9d91b/602f1fcf60e64001362b6ca5_6022ed55b5db6c11597f4c5d_hDVT5Z3fP3BOw1mGa-znQmBsV75-ZcVoSpklgn9WzzlwQIOW6UhMZBkhixbDp9yIcsMHYGMfn_sejLy4tCtzmkO9aAn9_fwQGjHvoDrbwUIfJdlQRqH_X5B7dicGGXVLHezW-KZR.jpeg) left top / auto repeat scroll;">
+		style="background:url(assets/images/photography/Generic Photography Images/jeshoots-com-p8kaVRe4edM-unsplash.jpg) left top / auto repeat scroll;">
 		<div class="container">
 			<div class="main-title-section">
 				<h1>Contact</h1>
@@ -60,7 +60,7 @@ if (isset($_POST['submit'])) {
 									</div>
 									<section1>
 										<div class="imgBx">
-											<img src="https://www.pngall.com/wp-content/uploads/12/Photographer-PNG-Image.png"
+											<img src="assets/images/photography/Generic Photography Images/AdobeStock_148407238.jpeg"
 												alt="">
 										</div>
 										<br><br>

@@ -35,13 +35,11 @@
 		}
 	</style>
 	<link rel='stylesheet' id='tribe-common-skeleton-style-css'
-		href='https://dtdance.wpenginepowered.com/wp-content/plugins/the-events-calendar/common/src/resources/css/common-skeleton.min.css?ver=4.12.15'
+		href='assets/css/common-skeleton.min.css'
 		type='text/css' media='all' />
-	<link rel='stylesheet' id='tribe-tooltip-css'
-		href='https://dtdance.wpenginepowered.com/wp-content/plugins/the-events-calendar/common/src/resources/css/tooltip.min.css?ver=4.12.15'
-		type='text/css' media='all' />
+	<link rel='stylesheet' id='tribe-tooltip-css'href='assets/css/tooltip.min.css'type='text/css' media='all' />
 	<link rel='stylesheet' id='wp-block-library-css'
-		href='https://dtdance.wpenginepowered.com/wp-includes/css/dist/block-library/style.min.css?ver=6.1.1'
+		href='assets/css/style.min.css'
 		type='text/css' media='all' />
 	<style id='wp-block-library-theme-inline-css' type='text/css'>
 		.wp-block-audio figcaption {
@@ -1359,14 +1357,14 @@
 							<!-- **Main Header** -->
 							<div class="main-header">
 								<div id="logo">
-									<a href="https://dtdance.wpengine.com/" title="Dance">
-										<!-- <img class="normal_logo"
-											src="https://dtdance.wpenginepowered.com/wp-content/uploads/2017/08/dance-logo-dark-1.png"
-											alt="Dance" title="Dance" />
+									<a href="index.php" title="Dance">
+										<img class="normal_logo"
+											src="assets/images/bg.png"
+											alt="Dance" title="Dance" style="width:100px;height:80px!important" />
 										<img class="darkbg_logo"
-											src="https://dtdance.wpenginepowered.com/wp-content/uploads/2017/08/dance-logo-dark.png"
-											alt="Dance" title="Dance" /> -->
-											<h1>PhotoGraphy</h1>
+											src="assets/images/bg.png"
+											alt="Dance" title="Dance" style="width:100px;height:150px!important" />
+											<!-- <h1>PhotoGraphy</h1> -->
 									</a>
 								</div>
 								<div id="menu-wrapper" class="menu-wrapper menu-default">

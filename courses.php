@@ -1393,7 +1393,7 @@
                     <div class="wpb_wrapper">
                       <h3>Photography Courses</h3>
                       <div class="vc_empty_space" style="height: 5px"><span class="vc_empty_space_inner"></span></div>
-                      <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit vitae porro reiciendis, similique rerum ullam iste doloremque? Deserunt officia eum in pariatur sint dolor recusandae, voluptatem natus iste molestiae sunt?</p>
+                     
                       <ul class='dt-sc-fancy-list  pink  circle-bullet'>
                             <li>Crash Course</li>
                             <li>Hobby Course</li>
@@ -1409,7 +1409,7 @@
                         <div class="wpb_wrapper">
                           <div class="wpb_text_column wpb_content_element  inherit">
                             <div class="wpb_wrapper">
-                              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati temporibus nam voluptatem tempora velit, commodi modi officia unde quod distinctio aspernatur qui impedit molestias optio natus eveniet similique. Totam fuga earum laboriosam similique! Veniam aut ex possimus delectus expedita modi.</p>
+                              
                               <h3>Crash Course</h3>
 
                             </div>

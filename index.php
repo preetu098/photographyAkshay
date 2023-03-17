@@ -375,103 +375,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="vc_row wpb_row vc_row-fluid">
-                                <div class="wpb_column vc_column_container vc_col-sm-3">
-                                    <div class="vc_column-inner ">
-                                        <div class="wpb_wrapper">
-                                            <div class="ult-animation  ult-animate-viewport  ult-no-mobile "
-                                                data-animate="bounceIn" data-animation-delay="0.5"
-                                                data-animation-duration="1" data-animation-iteration="1"
-                                                style="opacity:0;" data-opacity_start_effect="">
-                                                <div class='dt-sc-counter type1  aligncenter'>
-                                                    <div class='dt-sc-couter-icon-holder'>
-                                                        <div class='icon-wrapper'><span><img width="100" height="110"
-                                                                    src="https://www.freepnglogos.com/uploads/camera-logo-png/photography-clipart-camera-logo-pencil-color-6.png"
-                                                                    class="attachment-full" alt="" decoding="async"
-                                                                    loading="lazy" /></span></div>
-                                                        <div class='dt-sc-counter-number' data-value='50'
-                                                            data-append='+'>Camera</div>
-                                                    </div>
-                                                  
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="wpb_column vc_column_container vc_col-sm-3">
-                                    <div class="vc_column-inner ">
-                                        <div class="wpb_wrapper">
-                                            <div class="ult-animation  ult-animate-viewport  ult-no-mobile "
-                                                data-animate="bounceIn" data-animation-delay="0.8"
-                                                data-animation-duration="1" data-animation-iteration="1"
-                                                style="opacity:0;" data-opacity_start_effect="">
-                                                <div class='dt-sc-counter type1  aligncenter'>
-                                                    <div class='dt-sc-couter-icon-holder'>
-                                                        <div class='icon-wrapper'><span><img width="100" height="110"
-                                                                    src="https://www.freepnglogos.com/uploads/video-camera-png/video-camera-camera-clipart-png-transparent-pencil-and-color-36.png"
-                                                                    class="attachment-full" alt="" decoding="async"
-                                                                    loading="lazy" /></span></div>
-                                                        <div class='dt-sc-counter-number' data-value='1920'>Videography</div>
-                                                    </div>
-                                                   
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="wpb_column vc_column_container vc_col-sm-3">
-                                    <div class="vc_column-inner ">
-                                        <div class="wpb_wrapper">
-                                            <div class="ult-animation  ult-animate-viewport  ult-no-mobile "
-                                                data-animate="bounceIn" data-animation-delay="1.1"
-                                                data-animation-duration="1" data-animation-iteration="1"
-                                                style="opacity:0;" data-opacity_start_effect="">
-                                                <div class='dt-sc-counter type1  aligncenter'>
-                                                    <div class='dt-sc-couter-icon-holder'>
-                                                        <div class='icon-wrapper'><span><img width="100" height="110"
-                                                                    src="https://www.clipartmax.com/png/full/57-571977_video-editing-logo-png.png"
-                                                                    class="attachment-full" alt="" decoding="async"
-                                                                    loading="lazy" /></span></div>
-                                                        <div class='dt-sc-counter-number' data-value='2331'>Editing </div>
-                                                    </div>
-                                                   
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="wpb_column vc_column_container vc_col-sm-3">
-                                    <div class="vc_column-inner ">
-                                        <div class="wpb_wrapper">
-                                            <div class="ult-animation  ult-animate-viewport  ult-no-mobile "
-                                                data-animate="bounceIn" data-animation-delay="1.4"
-                                                data-animation-duration="1" data-animation-iteration="1"
-                                                style="opacity:0;" data-opacity_start_effect="">
-                                                <div class='dt-sc-counter type1  aligncenter last'>
-                                                    <div class='dt-sc-couter-icon-holder'>
-                                                        <div class='icon-wrapper'><span><img width="100" height="110"
-                                                                    src="https://www.pngall.com/wp-content/uploads/12/Photographer-Silhouette-PNG.png"
-                                                                    class="attachment-full" alt="" decoding="async"
-                                                                    loading="lazy" /></span></div>
-                                                        <div class='dt-sc-counter-number' data-value='1122'>Photographers</div>
-                                                    </div>
-                                                    
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="wpb_column vc_column_container vc_col-sm-12">
-                                    <div class="vc_column-inner ">
-                                        <div class="wpb_wrapper">
-                                            <div class="ult-spacer spacer-63cf7e56d6490" data-id="63cf7e56d6490"
-                                                data-height="70" data-height-mobile="70" data-height-tab="70"
-                                                data-height-tab-portrait="" data-height-mobile-landscape=""
-                                                style="clear:both;display:block;"></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                            <
                             <div data-vc-full-width="true" data-vc-full-width-init="false"
                                 class="vc_row wpb_row vc_row-fluid vc_background-contain">
                                 <div class="wpb_column vc_column_container vc_col-sm-6">
@@ -861,9 +765,7 @@
                                                 <h3 style="font-size: 16px;line-height: 28px;text-align: left;font-family:Roboto Condensed;font-weight:300;font-style:normal"
                                                     class="vc_custom_heading vcr_heading-right dt-sc-subtitle-text vc_custom_1501577369102">
                                                     Photograhy WITH YOUR HEART...</h3>
-                                                <h2 style="font-size: 30px;line-height: 40px;text-align: left;font-family:Roboto Condensed;font-weight:700;font-style:normal"
-                                                    class="vc_custom_heading vcr_heading-right">You will love coming to
-                                                    our photograhy class...</h2>
+                                                
                                                 <div class="ult-spacer spacer-63cf7e56dab80" data-id="63cf7e56dab80"
                                                     data-height="15" data-height-mobile="15" data-height-tab="15"
                                                     data-height-tab-portrait="" data-height-mobile-landscape=""
@@ -936,11 +838,9 @@
                                                                 style="opacity:0;" data-opacity_start_effect="">
                                                                 <div
                                                                     class='dt-sc-icon-box type3 alignleft no-icon-bg large-font with-border'>
-                                                                    <div class="icon-wrapper"><span
-                                                                            class='fa fa-certificate'> </span></div>
+                                                                    
                                                                     <div class="icon-content">
-                                                                        <h4>Premium Photography Class</h4>
-                                                                        <p> Merging photography with film studies</p>
+                                                                     
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -956,11 +856,9 @@
                                                                 style="opacity:0;" data-opacity_start_effect="">
                                                                 <div
                                                                     class='dt-sc-icon-box type3 alignleft no-icon-bg large-font with-border'>
-                                                                    <div class="icon-wrapper"><span
-                                                                            class='fa fa-edit'> </span></div>
+                                                                   
                                                                     <div class="icon-content">
-                                                                        <h4>Video Editing</h4>
-                                                                        <p>You can find tutorials on popular platforms</p>
+                                                                        
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -1040,26 +938,19 @@
                                                     </div>
                                                     <div class="entry-details">
                                                         <div class="entry-meta ">
-                                                            <div class="date "> 18 Jun 2015 </div>
+                                                           
                                                         </div>
                                                         <div class="entry-title">
                                                             <h4><a
-                                                                    href="">Classical
-                                                                    Odissi performance</a></h4>
+                                                                    href="">Professional Course</a></h4>
                                                         </div>
                                                         <div class="entry-author-comment">
-                                                            <div class="author ">By <i class="pe-icon pe-user"> </i> <a
-                                                                    href="">ram</a>
-                                                            </div>
-                                                            <div class="comments ">/ <a class="comments"
-                                                                    href="">
-                                                                    <i class="pe-icon pe-chat"></i> 0 Comments</a>
-                                                            </div>
+                                                           
+                                                            
                                                         </div>
                                                         <div class="entry-body">
-                                                            <p>Vestibulum a lacus at lectus tincidunt molestie et non
-                                                                metus. Sed ultrices ligula a urna ornare lobortis. In
-                                                                bibendum fringilla metus eget suscipit. Vivamus...</p>
+                                                            <p>People looking to make a full-time career in any genre of photography
+Curriculum....</p>
                                                         </div>
                                                         <div class="entry-meta-data hidden">
                                                             <p class="tags hidden"> <i class="pe-icon pe-ticket"> </i><a
@@ -1087,27 +978,15 @@
                                                     </div>
                                                     <div class="entry-details">
                                                         <div class="entry-meta ">
-                                                            <div class="date "> 18 Jun 2015 </div>
+                                                           
                                                         </div>
                                                         <div class="entry-title">
                                                             <h4><a
-                                                                    href="">Energetic
-                                                                    performance by Zumba dancers</a></h4>
+                                                                    href="">Comprehensive Course</a></h4>
                                                         </div>
-                                                        <div class="entry-author-comment">
-                                                            <div class="author ">By <i class="pe-icon pe-user"> </i> <a
-                                                                    href="">ram</a>
-                                                            </div>
-                                                            <div class="comments ">/ <a class="comments"
-                                                                    href="">
-                                                                    <i class="pe-icon pe-chat"></i> 0 Comments</a>
-                                                            </div>
-                                                        </div>
+                                                        
                                                         <div class="entry-body">
-                                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                                                Proin tincidunt nunc lorem, nec faucibus mi facilisis
-                                                                eget. Mauris laoreet, nisl id faucibus pellentesque,
-                                                                mi...</p>
+                                                            <p>People who are serious about photography as a hobby and want to learn advanced techniques and skills  </p>
                                                         </div>
                                                         <div class="entry-meta-data hidden">
                                                             <p class="tags hidden"> <i class="pe-icon pe-ticket"> </i><a
@@ -1149,27 +1028,18 @@
                                                     </div>
                                                     <div class="entry-details">
                                                         <div class="entry-meta ">
-                                                            <div class="date "> 18 Jun 2015 </div>
+                                                         
                                                         </div>
                                                         <div class="entry-title">
                                                             <h4><a
-                                                                    href="">Folk
-                                                                    dance by an African Troupe</a></h4>
+                                                                    href="">Hobby Course</a></h4>
                                                         </div>
                                                         <div class="entry-author-comment">
-                                                            <div class="author ">By <i class="pe-icon pe-user"> </i> <a
-                                                                    href="">ram</a>
-                                                            </div>
-                                                            <div class="comments ">/ <a class="comments"
-                                                                    href="">
-                                                                    <i class="pe-icon pe-chat"></i> 0 Comments</a>
-                                                            </div>
+                                                           
+                                                           
                                                         </div>
                                                         <div class="entry-body">
-                                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                                                Proin tincidunt nunc lorem, nec faucibus mi facilisis
-                                                                eget. Mauris laoreet, nisl id faucibus pellentesque,
-                                                                mi...</p>
+                                                            <p>People who want to learn the basics of photography as a casual hobby...</p>
                                                         </div>
                                                         <div class="entry-meta-data hidden">
                                                             <p class="tags hidden"> <i class="pe-icon pe-ticket"> </i><a

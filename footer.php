@@ -147,79 +147,79 @@
 /* ]]> */
 </script>
 <script type='text/javascript'
-	src='https://dtdance.wpenginepowered.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=4.8.3'
+	src='assets/newjs/cart-fragments.min.js'
 	id='wc-cart-fragments-js'></script>
 <script type='text/javascript'
-	src='https://dtdance.wpenginepowered.com/wp-content/plugins/woocommerce/assets/js/prettyPhoto/jquery.prettyPhoto.min.js?ver=3.1.6'
+	src='assets/newjs/jquery.prettyPhoto.min.js'
 	id='prettyPhoto-js'></script>
 <script type='text/javascript'
-	src='https://dtdance.wpenginepowered.com/wp-content/themes/dance/framework/js/jquery.ui.totop.min.js?ver=6.1.1'
+	src='assets/newjs/jquery.ui.totop.min.js'
 	id='jquery-ui-totop-js'></script>
 <script type='text/javascript'
-	src='https://dtdance.wpenginepowered.com/wp-content/themes/dance/framework/js/jquery.caroufredsel.js?ver=6.1.1'
+	src='assets/newjs/jquery.caroufredsel.js'
 	id='jquery-caroufredsel-js'></script>
 <script type='text/javascript'
-	src='https://dtdance.wpenginepowered.com/wp-content/themes/dance/framework/js/jquery.debouncedresize.js?ver=6.1.1'
+	src='assets/newjs/jquery.debouncedresize.js'
 	id='jquery-debouncedresize-js'></script>
 <script type='text/javascript'
-	src='https://dtdance.wpenginepowered.com/wp-content/themes/dance/framework/js/jquery.prettyphoto.js?ver=6.1.1'
+	src='assets/js/jquery.prettyphoto.js'
 	id='jquery-prettyphoto-js'></script>
 <script type='text/javascript'
-	src='https://dtdance.wpenginepowered.com/wp-content/themes/dance/framework/js/jquery.touchswipe.js?ver=6.1.1'
+	src='assets/newjs/jquery.touchswipe.js'
 	id='jquery-touchswipe-js'></script>
 <script type='text/javascript'
-	src='https://dtdance.wpenginepowered.com/wp-content/themes/dance/framework/js/jquery.parallax.js?ver=6.1.1'
+	src='assets/newjs/jquery.parallax.js'
 	id='jquery-parallax-js'></script>
 <script type='text/javascript'
-	src='https://dtdance.wpenginepowered.com/wp-content/themes/dance/framework/js/jquery.downcount.js?ver=6.1.1'
+	src='assets/newjs/jquery.downcount.js'
 	id='jquery-downcount-js'></script>
 <script type='text/javascript'
-	src='https://dtdance.wpenginepowered.com/wp-content/themes/dance/framework/js/jquery.nicescroll.js?ver=6.1.1'
+	src='assets/newjs/jquery.nicescroll.js'
 	id='jquery-nicescroll-js'></script>
 <script type='text/javascript'
-	src='https://dtdance.wpenginepowered.com/wp-content/themes/dance/framework/js/jquery.bxslider.js?ver=6.1.1'
+	src='assets/newjs/jquery.bxslider.js'
 	id='jquery-bxslider-js'></script>
 <script type='text/javascript'
-	src='https://dtdance.wpenginepowered.com/wp-content/themes/dance/framework/js/jquery.fitvids.js?ver=6.1.1'
+	src='assets/newjs/jquery.fitvids.js'
 	id='jquery-fitvids-js'></script>
 <script type='text/javascript'
-	src='https://dtdance.wpenginepowered.com/wp-content/themes/dance/framework/js/jquery.sticky.js?ver=6.1.1'
+	src='assets/newjs/jquery.sticky.js'
 	id='jquery-sticky-js'></script>
 <script type='text/javascript'
-	src='https://dtdance.wpenginepowered.com/wp-content/themes/dance/framework/js/jquery.simple-sidebar.js?ver=6.1.1'
+	src='assets/newjs/jquery.simple-sidebar.js'
 	id='jquery-simple-sidebar-js'></script>
 <script type='text/javascript'
-	src='https://dtdance.wpenginepowered.com/wp-content/themes/dance/framework/js/jquery.classie.js?ver=6.1.1'
+	src='assers/newjs/jquery.classie.js'
 	id='jquery-classie-js'></script>
 <script type='text/javascript'
-	src='https://dtdance.wpenginepowered.com/wp-content/plugins/the-events-calendar/vendor/jquery-placeholder/jquery.placeholder.min.js?ver=5.3.1'
+	src='assets/newjs/jquery.placeholder.min.js'
 	id='jquery-placeholder-js'></script>
 <script type='text/javascript'
-	src='https://dtdance.wpenginepowered.com/wp-content/themes/dance/framework/js/jquery.visualNav.min.js?ver=6.1.1'
+	src='assets/newjs/jquery.visualNav.min.js'
 	id='jquery-visualnav-js'></script>
 <script type='text/javascript'
-	src='https://dtdance.wpenginepowered.com/wp-content/themes/dance/framework/js/ResizeSensor.min.js?ver=6.1.1'
+	src='assets/newjs/ResizeSensor.min'
 	id='resizesensor-js'></script>
 <script type='text/javascript'
-	src='https://dtdance.wpenginepowered.com/wp-content/themes/dance/framework/js/theia-sticky-sidebar.min.js?ver=6.1.1'
+	src='assets/js/theia-sticky-sidebar.min.js'
 	id='theia-sticky-sidebar-js'></script>
 <script type='text/javascript'
-	src='https://dtdance.wpenginepowered.com/wp-content/plugins/js_composer/assets/lib/bower/isotope/dist/isotope.pkgd.min.js?ver=6.5.0'
+	src='assets/newjs/isotope.pkgd.min.js'
 	id='isotope-js'></script>
 <script type='text/javascript'
-	src='https://dtdance.wpenginepowered.com/wp-content/themes/dance/framework/js/magnific/jquery.magnific-popup.min.js?ver=6.1.1'
+	src='assets/newjs/jquery.magnific-popup.min.js'
 	id='dance-popup-js-js'></script>
 <script type='text/javascript'
-	src='https://dtdance.wpenginepowered.com/wp-content/themes/dance/framework/js/custom.js?ver=6.1.1'
+	src='assets/newjs/custom.js'
 	id='dance-jqcustom-js'></script>
 <script type='text/javascript'
-	src='https://dtdance.wpenginepowered.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.5.0'
+	src='assets/newjs/js_composer_front.min.js'
 	id='wpb_composer_front_js-js'></script>
 <script type='text/javascript'
-	src='https://dtdance.wpenginepowered.com/wp-content/plugins/js_composer/assets/lib/vc_waypoints/vc-waypoints.min.js?ver=6.5.0'
+	src='assets/newjs/vc-waypoints.min.js'
 	id='vc_waypoints-js'></script>
 <script type='text/javascript'
-	src='https://dtdance.wpenginepowered.com/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/vhparallax.min.js?ver=3.19.8'
+	src='assets/newjs/vhparallax.min.js'
 	id='jquery.vhparallax-js'></script>
 </body>
 
